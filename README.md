@@ -1,2 +1,5 @@
 # StanfordCS106
-Course work etc from StanfordEE CS107 https://see.stanford.edu/Course/CS107
+
+Manage Course work, Assignments etc from Programming Abstractions (CS 106), Stanford Engineering Everywhere (SEE)
+
+All materials from [CS106, SEE](https://see.stanford.edu/Course/CS106)
